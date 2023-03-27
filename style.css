@@ -1,0 +1,25 @@
+html{
+    background-color: greenyellow;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+img{
+    width: 120px;
+    height: 100px;
+    transition: 0.3s ease-in-out;
+    padding: auto;
+        
+}
+
+img:hover{
+    transform: scale(1.2);
+}
+
+.abacate1, .abacate2, .abacate3{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+
+
+}
